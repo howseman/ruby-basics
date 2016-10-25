@@ -1,0 +1,4 @@
+William Shakespeare, English, 4
+Agatha Christie, French, 3
+Barbara Cartland, Italian, 4
+Danielle Steel, English, 5
